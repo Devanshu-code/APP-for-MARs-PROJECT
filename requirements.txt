@@ -1,5 +1,5 @@
 streamlit
-pdfplumber
+pdfplumber==0.10.3
 python-docx
 pytesseract
 transformers
